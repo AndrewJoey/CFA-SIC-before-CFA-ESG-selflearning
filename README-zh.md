@@ -4,7 +4,7 @@
 
 > 社区驱动的开源备考指南，适用于 **CFA Institute 可持续投资与气候证书（CFA-SIC）**，前身为 **CFA ESG 投资证书**。
 >
-> 专为零基础人士设计——无需任何金融或 ESG 基础。
+> 专为零基础人士设计——无需任何金融或 ESG 基础
 
 ![欢迎贡献](https://img.shields.io/badge/contributions-welcome-brightgreen)
 ![许可证：CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue)
